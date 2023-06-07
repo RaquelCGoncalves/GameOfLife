@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/raquel/Desktop/gameoflife/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/gameoflife.dir/main.cpp.o -c /home/raquel/Desktop/gameoflife/main.cpp",
+  "file": "/home/raquel/Desktop/gameoflife/main.cpp"
+}
+]

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raquel/Desktop/gameoflife/main.cpp
+iostream
+-
+string
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

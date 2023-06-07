@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20230605-2049-Experimental"
+	Name="raquelcg"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="raquelcg"
+	OSRelease="5.15.0-72-generic"
+	OSVersion="#79~20.04.1-Ubuntu SMP Thu Apr 20 22:12:07 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15783"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1850.71"
+	>
+	<Testing>
+		<StartDateTime>Jun 06 00:24 WEST</StartDateTime>
+		<StartTestTime>1686007450</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 06 00:24 WEST</EndDateTime>
+		<EndTestTime>1686007450</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
